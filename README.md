@@ -22,3 +22,8 @@ M1 MacbookAir 16GB で動作しています、
 `docker run -d  -p '192.168.1.69:50021:50021' voicevox/voicevox_engine:cpu-ubuntu20.04-latest`  
 というように起動させます  
 IPアドレス部分はご自身のマシンのIPに変えてください
+
+Gmailを操作するためAPIとtoken.jsonが必要になります  
+https://developers.google.com/gmail/api/quickstart/python?hl=ja
+を参考にAPIを使用可能にし、token.jsonを取得し同一ディレクトリに設置してください  
+
