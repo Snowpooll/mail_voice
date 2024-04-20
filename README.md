@@ -27,3 +27,8 @@ Gmailを操作するためAPIとtoken.jsonが必要になります
 https://developers.google.com/gmail/api/quickstart/python?hl=ja  
 を参考にAPIを使用可能にし、token.jsonを取得し同一ディレクトリに設置してください  
 
+config.iniの中にGmailラベルの設定と  
+dockerマシンのIPアドレスの設定  
+次の顔検出までの設定時間があります  
+
+それぞれの使用環境でセットしてください
