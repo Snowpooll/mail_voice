@@ -1,0 +1,8 @@
+__pycache__/
+query.json
+token.json
+downloaded_file.pdf
+notice.wav
+notice_pdf.wav
+audio_output.wav
+email_body.txt

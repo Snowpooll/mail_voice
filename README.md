@@ -30,5 +30,6 @@ https://developers.google.com/gmail/api/quickstart/python?hl=ja
 config.iniの中にGmailラベルの設定と  
 dockerマシンのIPアドレスの設定  
 次の顔検出までの設定時間があります  
+通知の音声を変更したい場合 notification_soundの値を変えてください  
 
 それぞれの使用環境でセットしてください

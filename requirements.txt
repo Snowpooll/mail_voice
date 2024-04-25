@@ -1,0 +1,12 @@
+PyMuPDF
+playsound
+configparser
+pygame
+google-api-python-client
+google-auth-oauthlib
+google-auth-httplib2
+python-dateutil
+opencv-python
+selenium
+requests
+
